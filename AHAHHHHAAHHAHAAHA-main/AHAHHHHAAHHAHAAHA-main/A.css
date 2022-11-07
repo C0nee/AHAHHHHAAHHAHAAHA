@@ -1,0 +1,25 @@
+
+body{
+    width: 100%;
+    overflow: auto;
+    position: relative;
+    
+}.nag{
+    position: fixed;
+    background-color: aquamarine;
+    width: 100%;
+}
+
+.Op{
+    float: left;
+    width: 25%;
+    
+}
+#LEWO{
+    clear: left;
+}
+#PRAWO{
+    clear: right;
+}
+
+
